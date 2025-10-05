@@ -1,0 +1,8 @@
+# Flask framework for building the web chatbot
+Flask==3.0.3
+
+# Gunicorn — production WSGI server required by Render
+gunicorn==21.2.0
+
+# Optional but useful — for managing environment variables (.env file)
+python-dotenv==1.0.1
